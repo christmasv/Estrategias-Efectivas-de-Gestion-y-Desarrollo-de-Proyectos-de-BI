@@ -6,15 +6,15 @@ Esta guía servirá como introducción a los conceptos básicos de la API de Ker
 
 📚 En esta guía, aprendemos sobre:
 
-Tensores, variables y gradientes en TensorFlow
-Creación de capas subclasificando la clase Layer
-Escribir bucles de entrenamiento de bajo nivel
-Seguimiento de las pérdidas creadas por las capas a través del método add_loss()
-Seguimiento de las métricas en un bucle de entrenamiento de bajo nivel
-Acelerar la ejecución con untf.function
-Ejecución de capas en modo de entrenamiento o inferencia
-La API funcional de Keras
-También verás la API de Keras en acción en dos ejemplos de investigación de extremo a extremo: un Autocodificador Variacional y una Hypernetwork.
+-> Tensores, variables y gradientes en TensorFlow.
+-> Creación de capas subclasificando la clase Layer.
+-> Escribir bucles de entrenamiento de bajo nivel.
+-> Seguimiento de las pérdidas creadas por las capas a través del método add_loss()
+-> Seguimiento de las métricas en un bucle de entrenamiento de bajo nivel
+-> Acelerar la ejecución con untf.function
+-> Ejecución de capas en modo de entrenamiento o inferencia
+-> La API funcional de Keras
+-> También verás la API de Keras en acción en dos ejemplos de investigación de extremo a extremo: un Autocodificador Variacional y una Hypernetwork.
 
 
 Tensores
