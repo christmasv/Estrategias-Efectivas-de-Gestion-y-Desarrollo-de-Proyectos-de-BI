@@ -7,7 +7,7 @@
 
 Este es un espacio dedicado al entendimiento del Machine Learning desde cero.  Esta guía servirá como introducción a los conceptos básicos de la API de Keras & TensorFlow.  Presentada en notebooks que los puedes ejecutar con: 🗒 [Google Colab](https://colab.sandbox.google.com/).
 
-* ### 📚 En esta guía, aprendemos sobre:
+### 📚 En esta guía, aprendemos sobre:
 
 * -> Introducción Redes Neuronales `CNN` y `RNN`
 * -> Tensores, variables y gradientes en TensorFlow.
