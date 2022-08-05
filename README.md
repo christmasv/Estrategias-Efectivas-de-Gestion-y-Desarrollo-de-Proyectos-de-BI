@@ -29,3 +29,8 @@ Sin embargo, hay tres diferencias clave entre NumPy y TensorFlow:
 TensorFlow puede aprovechar aceleradores de hardware como GPU y TPU.
 TensorFlow puede calcular automáticamente el gradiente de expresiones tensor diferenciables arbitrarias.
 El cálculo de TensorFlow se puede distribuir a un gran número de dispositivos en una sola máquina y a un gran número de máquinas (potencialmente con varios dispositivos cada una).
+
+## Google Trends Busquedas | Comparación | Tensorflow - Keras - Pytorch
+
+### 5 Años 
+![tensorflow keras pytorch 5y](https://user-images.githubusercontent.com/5433084/183048006-fa6fbf61-c336-4d77-a701-38ffbd304c60.gif)
