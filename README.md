@@ -30,18 +30,3 @@ TensorFlow puede aprovechar aceleradores de hardware como GPU y TPU.
 TensorFlow puede calcular automáticamente el gradiente de expresiones tensor diferenciables arbitrarias.
 El cálculo de TensorFlow se puede distribuir a un gran número de dispositivos en una sola máquina y a un gran número de máquinas (potencialmente con varios dispositivos cada una).
 
-
-
-## Comparación | Tensorflow - Keras - Pytorch
-
-![Banner Tesorflow Pytorch Keras Final](https://user-images.githubusercontent.com/5433084/183273276-fa8211c9-a677-48a5-b190-7f6818347696.png)
-
-
-### Google Tendencias de búsquedas últimos [5 Años] ←
-![tensorflow keras pytorch 5y](https://user-images.githubusercontent.com/5433084/183048006-fa6fbf61-c336-4d77-a701-38ffbd304c60.gif)
-
-### Google Tendencias de búsquedas últimos [12 Mes] ←
-![tensorflow keras pytorch last 12mth](https://user-images.githubusercontent.com/5433084/183051933-10c1f518-34cd-4f18-9eb8-dab2718ad871.gif)
-
-### Google Tendencias de búsquedas últimos [90 Dias] ←
-![tensorflow keras pytorch last 90dias](https://user-images.githubusercontent.com/5433084/183053231-dd4349f1-87df-46a4-a58e-e12e7981f2a6.gif)
