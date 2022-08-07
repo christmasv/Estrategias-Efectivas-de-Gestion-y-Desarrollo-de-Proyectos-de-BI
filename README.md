@@ -34,7 +34,8 @@ El cálculo de TensorFlow se puede distribuir a un gran número de dispositivos 
 
 ## Comparación | Tensorflow - Keras - Pytorch
 
-![Slide1](https://user-images.githubusercontent.com/5433084/183058471-2ac8dce8-436b-4ed3-a757-a6b7e4fd4e54.png)
+![Banner Tesorflow Pytorch Keras](https://user-images.githubusercontent.com/5433084/183273241-d173281c-3ba0-464a-b90a-0e87d1052d52.png)
+
 
 ### Google Tendencias de búsquedas últimos [5 Años] ←
 ![tensorflow keras pytorch 5y](https://user-images.githubusercontent.com/5433084/183048006-fa6fbf61-c336-4d77-a701-38ffbd304c60.gif)
